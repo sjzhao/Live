@@ -864,3 +864,9 @@ https://i.mjh.nz/SamsungTVPlus/USBD3500010MT.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBD3300021KV.m3u8
 #EXTINF:-1 tvg-id="USBD3500022DN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500022DN_20240401T235658SQUARE.png" group-title="United States",Stingray Greatest Hits
 https://i.mjh.nz/SamsungTVPlus/USBD3500022DN.m3u8
+#EXTINF:-1 tvg-id="USBD3500023DS" tvg-logo="" group-title="United States",ABC TV HD
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+#EXTINF:-1 tvg-id="USBD3500024DA" tvg-logo="" group-title="United States",ESPN
+http://143.244.60.30/ESPN/index.m3u8
+#EXTINF:-1 tvg-id="USBD3500025EA" tvg-logo="" group-title="United States",TNT
+http://170.254.18.106/TNT/index.m3u8
